@@ -3,7 +3,6 @@
 
 ## เอาไว้ทดสอบ
 * Local Notification
-* Push Notification
 
 ## สร้างโดย
 
