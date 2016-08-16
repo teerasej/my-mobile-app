@@ -6,4 +6,4 @@
 
 ## สร้างโดย
 
-[ธีรเศรษฐ์ จิรภัทร์ชาญเดช](https://www.facebook.com/teerasej)
+[ธีรเศรษฐ์ จิรภัทร์ชาญเดช](https://www.facebook.com/nextflow)
